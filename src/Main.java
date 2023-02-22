@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
         Supermarket market = new Supermarket();
@@ -29,9 +32,6 @@ public class Main {
         showQueues(market);
         market.removePerson();
         showQueues(market);
-
-
-
 
     }
 

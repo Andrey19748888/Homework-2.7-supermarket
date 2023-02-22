@@ -60,6 +60,8 @@ public class Supermarket {
             queue2.poll();
         }
     }
+
+
 }
 
 
